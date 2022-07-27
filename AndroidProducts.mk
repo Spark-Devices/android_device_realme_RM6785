@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/RM6785.mk
+    $(LOCAL_DIR)/spark_RM6785.mk
 
 COMMON_LUNCH_CHOICES := \
-    RM6785-user \
-    RM6785-userdebug \
-    RM6785-eng
+    spark_RM6785-user \
+    spark_RM6785-userdebug \
+    spark_RM6785-eng
