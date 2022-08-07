@@ -39,3 +39,9 @@ ro.product.cuptsm=OPPO|ESE|01|02
 
 # Zygote
 persist.device_config.runtime_native.usap_pool_enabled=true
+
+# Spark-OS                                                                                              
+ro.spark.device.name=RM6785                                                                             
+ro.spark.group.url=https://telegram.me/pocof1sup                                                   
+ro.spark.maintainer=Rahul Gorai                                                                   
+ro.spark.maintainer.username=RahulGorai0206

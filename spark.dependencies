@@ -1,0 +1,8 @@
+[
+    {
+        "remote": "devices",
+        "repository": "android_vendor_realme_RM6785",
+        "target_path": "vendor/realme",
+        "branch": "spark"
+    }
+]
